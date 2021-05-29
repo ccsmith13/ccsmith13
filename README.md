@@ -35,7 +35,7 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ccsmith13}/count.svg" alt="ccsmith13 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ccsmith13}/count.svg" alt="ccsmith13 :: Visitor Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
