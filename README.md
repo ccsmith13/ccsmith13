@@ -15,7 +15,7 @@ func main() {
 }
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "Aspiring web developer who is just trying to write some code 🤓",
+		"- ⚡ Quick bio:":                     "Aspiring web developer who is just trying to write some code 🤓",
 		"- 🔭 I’m currently working on":      "Google-y things, making remote work awesome",
 		"- 🌱 I’m currently learning":        "Java, data Structures & algorithms, systems design",
 		"- 👯 I’m looking to collaborate on": "Python, JavaScript / ReactJS projects, and any front-end-dev opportunity that is worth the while",
