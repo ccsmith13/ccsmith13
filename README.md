@@ -26,8 +26,6 @@ func GetBio() Bio {
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
-
 <p align="center">
   <a href="https://linkedin.com/in/ccsmith1">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Christine Smith's LinkedIn Profile" height="30" width="30">
