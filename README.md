@@ -18,9 +18,8 @@ func GetBio() Bio {
 		"- ⚡ Quick bio:":                     "Aspiring web developer who is just trying to write some code 🤓",
 		"- 🔭 I’m currently working on":      "Google-y things, making remote work awesome",
 		"- 🌱 I’m currently learning":        "Java, data Structures & algorithms, systems design",
-		"- 👯 I’m looking to collaborate on": "Python, JavaScript / ReactJS projects, and any front-end-dev opportunity that is worth the while",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "My opinions on early 2000s web apps ✨",
+		"- 👯 I’m looking to collaborate on": "Python, JavaScript / ReactJS projects, and any front-end-dev work",
+		"- 🤔 I’m looking for help with":     "Anything related to what I'm currently learning 😅",
 		"- 📫 How to reach me:":              "https://linkedin.com/in/ccsmith1",
 	}
 }
