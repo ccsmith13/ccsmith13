@@ -17,7 +17,7 @@ func GetBio() Bio {
 	return Bio{
 		"- 🌱 I’m currently learning":        "Java, data Structures & algorithms, systems design",
 		"- 👯 I’m looking to collaborate on": "Python, JavaScript / ReactJS projects, and any front-end-dev work",
-		"- 🤔 I’m looking for help with":     "Anything related to what I'm currently learning 😅",
+		"- 🤔 I’m looking for help with":     "Anything related to what I'm currently learning",
 		"- 📫 How to reach me:":              "https://linkedin.com/in/ccsmith1",
 	}
 }
